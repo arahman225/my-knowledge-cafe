@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of JavaScript",
+      "cover": "https://i.ibb.co.com/FHB2kYv/1.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "posted_date": "2024-10-10",
+      "reading_time": 8,
+      "hash_tag": "#JavaScript #Programming #WebDevelopment"
+    },
+    {
+      "id": 2,
+      "title": "Mastering CSS for Responsive Design",
+      "cover": "https://i.ibb.co.com/FzhVSzf/2.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "posted_date": "2024-09-22",
+      "reading_time": 6,
+      "hash_tag": "#CSS #ResponsiveDesign #Frontend"
+    },
+    {
+      "id": 3,
+      "title": "Understanding RESTful APIs",
+      "cover": "https://i.ibb.co.com/0npQf5H/3.png",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 10,
+      "hash_tag": "#APIs #Backend #REST"
+    },
+    {
+      "id": 4,
+      "title": "Getting Started with Python",
+      "cover": "https://i.ibb.co.com/WBRbx3H/4.jpg",
+      "author": "Robert Lee",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": 12,
+      "hash_tag": "#Python #Programming #DataScience"
+    },
+    {
+      "id": 5,
+      "title": "A Guide to Modern Web Architecture",
+      "cover": "https://example.com/covers/web_architecture.jpg",
+      "author": "Emily Davis",
+      "author_img": "https://example.com/authors/emily_davis.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 9,
+      "hash_tag": "#WebArchitecture #CloudComputing #DevOps"
+    }
+  ]
+  
